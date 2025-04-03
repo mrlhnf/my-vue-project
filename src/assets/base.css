@@ -34,6 +34,11 @@
   --color-text: var(--vt-c-text-light-1);
 
   --section-gap: 160px;
+   
+  /* This is for global style */
+  .el-select__wrapper {
+    background-color: blue;
+  }
 }
 
 @media (prefers-color-scheme: dark) {

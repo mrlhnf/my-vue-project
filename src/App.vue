@@ -1,5 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/Base-InfiniteScroll.vue'
 import TheWelcome from './components/TheWelcome.vue'
 </script>
 
